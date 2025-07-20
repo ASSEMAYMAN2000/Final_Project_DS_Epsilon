@@ -21,4 +21,7 @@ This project predicts whether patients will miss medical appointments ("no-show"
 - `model.pkl`: Tuned Random Forest model.
 - `*.png`: EDA visualizations (age histogram, etc.).
 
+## Acknowledgments
 
+- This project was developed as part of the training at [Epsilon AI](https://epsilonai.com).
+- Special thanks to Epsilon AI for their guidance and support throughout the Redemi project.
