@@ -23,5 +23,5 @@ This project predicts whether patients will miss medical appointments ("no-show"
 
 ## Acknowledgments
 
-- This project was developed as part of the training at [Epsilon AI](https://epsilonai.com).
-- Special thanks to Epsilon AI for their guidance and support throughout the Redemi project.
+- This project was developed as part of the training at [Epsilon AI Institute](https://www.epsiloneg.com/).
+- Special thanks to the mentors and team at [Epsilon AI on GitHub](https://github.com/epsilonai) for their continuous guida
